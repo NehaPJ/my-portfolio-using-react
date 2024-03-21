@@ -1,0 +1,30 @@
+#works {
+    margin: 0 auto;
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    flex-direction: centre;
+    align-items: centre;
+    justify-content: centre;
+    text-align: center;
+    padding: 0 1rem;
+    font-size: larger;
+}
+
+.workstitle{
+    margin: 1rem 0;
+    font-size: 3rem;
+    text-align: center;
+    display: flex;
+    
+
+}
+
+.worksDes{
+    font-weight: 400;
+    font-size: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
